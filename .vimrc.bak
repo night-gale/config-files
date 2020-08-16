@@ -1,0 +1,8 @@
+set number 
+set ignorecase
+set smartcase
+filetype indent on
+set autoindent
+set cursorline
+
+colo delek
