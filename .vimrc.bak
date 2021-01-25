@@ -1,8 +1,14 @@
 set number 
 set ignorecase
+set mouse=a
 set smartcase
-filetype indent on
-set autoindent
 set cursorline
+set smartindent
+noremap K 5k
+noremap J 5j
+inoremap kj <Esc>
+set expandtab
+set tabstop=4
+set shiftwidth=4
 
 colo delek
